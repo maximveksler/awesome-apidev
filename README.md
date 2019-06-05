@@ -1,5 +1,5 @@
-# awesome-apidev
-Tools for continues delivery of production API's
+# awesome-dev
+Tools for continues delivery of production code.
 
 
 ### Stub
